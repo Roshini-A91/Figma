@@ -1,5 +1,8 @@
 # Ex09 Event Registration Web Application
-## Date:
+
+# NAME: ROSHINI A
+# REG.NO: 212224230233
+## Date:15-11-2025
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
